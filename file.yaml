@@ -1,0 +1,6 @@
+---
+ANumber: 145
+AFloat: 19.05
+AString: Unqouted string
+AQuotedString: " Quotes are used "
+Bool: True 
